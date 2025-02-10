@@ -26,5 +26,5 @@ public class MyQueue<T> {
         return myQueue.poll();
     }
 
-    public void forEach()
+//    public void forEach()
 }
