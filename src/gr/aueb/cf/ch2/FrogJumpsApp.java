@@ -24,5 +24,6 @@ public class FrogJumpsApp {
         //to ena double automata ola ginontai double
 
         System.out.println("jumps is: " + jumps);
+        
     }
 }
